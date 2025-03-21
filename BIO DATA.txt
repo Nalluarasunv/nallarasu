@@ -1,0 +1,13 @@
+BIO DATA
+
+NAME: nallarasu
+DOB:18/07/2005
+GENDER: Male
+NATIONALITY: Indian
+LANGUAGE KNOW: Tamil,English
+DEGREE: BCA
+QUALIFICATIONS: Higher Secondary
+HOBBIES:  Watching movies
+		Listing songs 
+		Cricket loveru 
+CONTACT: nallarasunv@srmasc.ac.in
